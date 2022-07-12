@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
+	// 出力
 	fmt.Println("Hello World!")
 }
